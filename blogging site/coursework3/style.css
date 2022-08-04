@@ -1,0 +1,95 @@
+.centerlized{text-align: center;}
+.container{
+    background-color: rgb(205, 255, 212);
+    margin: 10px;
+    padding: 1px;
+    border-radius:100px;
+    border: 10px solid;
+}
+header{
+     width:100%;
+     height: 20vh;}
+    .navigationsec{
+        height:10vh;
+        width:100%;
+        display:flex;
+        justify-content: space-around;
+        align-items: center;
+        background: rgba(0,0,0,0.4);}
+
+        nav{
+            float:right;
+            font-size: 20px;
+        }
+        
+        nav a{
+            float:none;
+            font-family: cursive;
+            font-size: 20px;
+            padding-left: 25px;
+            text-decoration: none;
+            color: whitesmoke;
+        }
+        
+        nav a:hover{
+            background-color: aliceblue;
+            padding:15px;
+            color: black;
+            transition: 0.3s all;
+        }
+    .logo{
+            width:50%;
+            color: #f5823b;
+            font-family: cursive;}
+            .child{
+                font-size: 25px;
+                color: #6b9ded;
+            }
+.leftside{
+                
+    background:salmon;
+    border-radius:100px;
+    padding: 50px;
+    margin-bottom: 50px;
+    width:50%;
+    color: whitesmoke;
+    font-family: cursive;
+    font-size: 70%;
+    text-decoration: none;}
+
+
+    
+.introduction{
+    text-align: justify;
+    font-size: 18px;}
+    main{
+        height: 100vh;
+        font-family: cursive;
+        justify-content: space-around; 
+        display: flex;}
+    footer{
+        color: #748077;
+        background: #2d362f;
+        padding: 0%;
+        height: 85vh;   
+    }
+    .rightside img{
+        width: 250px;
+        height: 250px;
+        border: 05px;
+        margin: 80px;
+        border-color: white;
+        border-radius: 50%;
+        border-style: outset;
+    }
+    .instagram{
+        height:30px;
+        width: 30px;
+        padding-bottom: 05px;
+        
+    }
+    
+    .facebook{
+        height:40px;
+        width: 40px;
+    }

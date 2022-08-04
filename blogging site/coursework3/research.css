@@ -1,0 +1,32 @@
+
+		
+ body{
+           
+    color: ivory;
+    font-family: cursive;
+    background-color: grey;
+    
+   
+    }
+    table{
+        margin: 30px;
+        justify-content: space-around;
+        font-family: cursive;
+        font-size: 20px;
+        justify-content: center;
+        text-align-last: left;
+        
+    }
+    
+    img{
+        height: 300px;
+        width: 550px;
+        margin:40px;
+        border-radius: 4px;
+    }
+    table a{
+        padding: 20px;
+        text-align: none;
+        text-decoration: none;
+    }
+        
